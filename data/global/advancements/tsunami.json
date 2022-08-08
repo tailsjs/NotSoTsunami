@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "NotSoTsunami",
+        "description": "Trying to make a tsunami in your world.",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'tailsjs'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
