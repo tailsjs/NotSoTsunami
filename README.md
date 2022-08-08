@@ -1,5 +1,5 @@
 # NotSoTsunami [1.19.2]
-A small minecraft challenge, where your gravity changing every 60 seconds
+Trying to make a tsunami in your world.
 
 ## Installation:
 1. Download the latest version of [NotSoTsunami](https://github.com/tailsjs/NotSoTsunami/releases) from releases.
